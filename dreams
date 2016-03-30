@@ -1,0 +1,13 @@
+dreams Project {eb9a665a-8936-47e7-84f8-1500e8ec727f} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {d2eb79ab-778e-47aa-ad87-654c7a5713ab} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	classes TypedListOfClass {5309c8ce-539a-41e0-9525-02b477265b44} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+		0 persistencenewunit {05130772-4358-43fc-a2b8-77c975e29ca2} {5309c8ce-539a-41e0-9525-02b477265b44}. S_Person {05130772-4358-43fc-a2b8-77c975e29ca2}
+	fields TypedListOfField {99dcfa16-eb9d-46a3-b5a4-0dd80a773896} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	libraries TypedListOfUsedLibrary {874c18fb-df86-4cff-a419-3e9521f9ad95} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	metaCalls TypedListOfExpression {6bcc0915-6e78-48d4-93e7-74228f892b6e} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	methods TypedListOfMethod {9061b9aa-576e-44b4-ab0d-3b2e97d4a58f} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	modifiers Modifier {933a8d0f-42d1-40b1-a1d4-ac23ab6d30c0} {eb9a665a-8936-47e7-84f8-1500e8ec727f}. I_0
+	modules TypedListOfModule {5d868f68-a8a4-4019-906b-0de659e1d449} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	name NameText {b60ae904-7eed-4ac6-b49d-23b56b30ca7e} {eb9a665a-8936-47e7-84f8-1500e8ec727f}. S_Dreams
+	projects TypedListOfProject {687ec4b5-86e2-4825-87e0-3d67aa3576c8} {eb9a665a-8936-47e7-84f8-1500e8ec727f}
+	subDeclarations TypedListOfDeclaration {c7c29b39-fd91-42cf-94e5-976ba6d067e9} {eb9a665a-8936-47e7-84f8-1500e8ec727f}

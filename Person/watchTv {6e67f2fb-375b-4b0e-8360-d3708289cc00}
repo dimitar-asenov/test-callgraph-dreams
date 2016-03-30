@@ -1,0 +1,15 @@
+3 Method {6e67f2fb-375b-4b0e-8360-d3708289cc00} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}
+	_ext_Position_x Integer {5b4ee497-7cd2-4621-8575-2785161b8134} {6e67f2fb-375b-4b0e-8360-d3708289cc00}. I_1
+	_ext_Position_y Integer {bbb0b079-e223-4ab9-80b0-6eedd57b1013} {6e67f2fb-375b-4b0e-8360-d3708289cc00}. I_1
+	annotations StatementItemList {3ee81790-b7ce-4a41-9b4b-208a8cd3f9b5} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	arguments TypedListOfFormalArgument {f4d60900-96fa-42ca-b46e-fa6549b14d82} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	items StatementItemList {eca6dff5-5f67-4129-99b2-0c8f4168687b} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	memberInitializers TypedListOfMemberInitializer {10a201da-a9bf-497d-99f4-4710b48c76ae} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	metaCalls TypedListOfExpression {cd9a9fcb-4535-460e-818a-94154fb5889b} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	modifiers Modifier {369aecf4-bca5-4262-979b-9a38bb73769f} {6e67f2fb-375b-4b0e-8360-d3708289cc00}. I_0
+	mthKind Integer {4a6ed0d1-8ed4-4351-a24c-ece4d24e8168} {6e67f2fb-375b-4b0e-8360-d3708289cc00}. I_0
+	name NameText {9f608bac-0b03-4ebb-a11d-01ec4a2ff93a} {6e67f2fb-375b-4b0e-8360-d3708289cc00}. S_watchTv
+	results TypedListOfFormalResult {8470e7a8-0ca3-4d4f-88ff-33d5ea708ebb} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	subDeclarations TypedListOfDeclaration {7e7f2d5d-45c2-40d3-bb48-2e8cb96da303} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	throws TypedListOfExpression {ee438a3f-2c11-42de-a141-746d6dc01a1e} {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+	typeArguments TypedListOfFormalTypeArgument {7bd30eb0-5943-41d1-9f50-5cd6112ff260} {6e67f2fb-375b-4b0e-8360-d3708289cc00}

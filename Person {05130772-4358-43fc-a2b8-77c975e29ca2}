@@ -1,0 +1,21 @@
+0 Class {05130772-4358-43fc-a2b8-77c975e29ca2} {5309c8ce-539a-41e0-9525-02b477265b44}
+	_ext_Position_x Integer {8a240cb3-4d2b-4bfa-a3bd-2444615de341} {05130772-4358-43fc-a2b8-77c975e29ca2}. I_0
+	_ext_Position_y Integer {55ef52b7-f3a6-4653-ad54-968c3ea349ce} {05130772-4358-43fc-a2b8-77c975e29ca2}. I_0
+	annotations StatementItemList {08c3f6fe-485c-4a81-8648-eac4a9b8cd15} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	baseClasses TypedListOfExpression {7a1f2977-446f-40f0-b545-7243d4ee9720} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	cKind Integer {a31be3e5-3043-4036-85a1-21ab5ec566bd} {05130772-4358-43fc-a2b8-77c975e29ca2}. I_0
+	classes TypedListOfClass {0efce067-b768-48d7-b81a-7cee42bd3940} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	enumerators TypedListOfEnumerator {8293227a-9f80-4367-9d79-8835cafd344d} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	fields TypedListOfField {5e060b12-0294-4b9c-8c54-9cec89ce5b13} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	friends TypedListOfDeclaration {fc7e05b7-820d-46fe-b205-3de1bdf29033} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	metaCalls TypedListOfExpression {259253ab-f47f-4f64-baf2-756f20aed2ea} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	methods TypedListOfMethod {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83} {05130772-4358-43fc-a2b8-77c975e29ca2}
+		0 persistencenewunit {2e93aa78-60d1-42f5-8919-61ce77821fbd} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}. S_Person/rest {2e93aa78-60d1-42f5-8919-61ce77821fbd}
+		1 persistencenewunit {0835405e-e495-4ad4-b7d5-32bdacb92a6c} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}. S_Person/sleep {0835405e-e495-4ad4-b7d5-32bdacb92a6c}
+		2 persistencenewunit {d5d7395c-e96b-4dcd-b049-7eadb0c947b6} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}. S_Person/dream {d5d7395c-e96b-4dcd-b049-7eadb0c947b6}
+		3 persistencenewunit {6e67f2fb-375b-4b0e-8360-d3708289cc00} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}. S_Person/watchTv {6e67f2fb-375b-4b0e-8360-d3708289cc00}
+		4 persistencenewunit {93bbd67d-6f9b-4711-80fb-410aeb05f9ef} {2ede9c19-e4bd-4ee0-93af-4e29bd6c6f83}. S_Person/goToWork {93bbd67d-6f9b-4711-80fb-410aeb05f9ef}
+	modifiers Modifier {ca583ba6-80bc-4889-91b9-0938ac4d3fe8} {05130772-4358-43fc-a2b8-77c975e29ca2}. I_0
+	name NameText {dcc4613e-d965-493c-b7f0-b236c3a46e2e} {05130772-4358-43fc-a2b8-77c975e29ca2}. S_Person
+	subDeclarations TypedListOfDeclaration {740988a4-e153-4f52-9dcd-6708204b22b8} {05130772-4358-43fc-a2b8-77c975e29ca2}
+	typeArguments TypedListOfFormalTypeArgument {1b9d591e-1585-434c-9f4d-3d18a2c5f45b} {05130772-4358-43fc-a2b8-77c975e29ca2}
